@@ -1,3 +1,6 @@
+import * as React from 'react'
+import Button from '@mui/material/Button'
+
 export default function About() {
-  return <div>About</div>;
+	return <Button variant="contained">Hello world</Button>
 }

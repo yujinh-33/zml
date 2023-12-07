@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url('./preflight.css');
+
+body {
+  padding: 8px 16px;
+  background-color: #f1f5f8;
+}
